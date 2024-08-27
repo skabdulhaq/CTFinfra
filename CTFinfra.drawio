@@ -262,6 +262,9 @@
         <mxCell id="f0-kn7cBye1a83QEso3L-104" value="8GB ram&lt;br&gt;4 CPU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="f0-kn7cBye1a83QEso3L-113">
           <mxGeometry y="52" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="f0-kn7cBye1a83QEso3L-114" value="Subdomain mapper" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
